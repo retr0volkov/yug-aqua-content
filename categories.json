@@ -1,20 +1,122 @@
 [
   {
-      "name": "Супер мега категория 1",
-      "description": "Описание супер мега товара, побольше такое чтобы круто выглядело для демки",
+      "name": "",
+      "description": "Фильтры для бассейнов",
       "id": 0,
-      "imageSrc": "/categories/0.jpg"
+      "imageSrc": "/categories/LFS-1-300x300.png"
   },
   {
-      "name": "Супер мега категория 2",
-      "description": "Описание супер мега товара, побольше такое чтобы круто выглядело для демки",
+      "name": "",
+      "description": "Насосы для бассейнов",
       "id": 1,
-      "imageSrc": "/categories/1.jpg"
+      "imageSrc": "/categories/snapedit_1708945957118-300x300.jpeg"
   },
   {
-      "name": "Супер мега категория 3",
-      "description": "Описание супер мега товара, побольше такое чтобы круто выглядело для демки",
+      "name": "",
+      "description": "Закладные",
       "id": 2,
-      "imageSrc": "/categories/2.jpg"
+      "imageSrc": "/categories/snapedit_1708946506057-300x300.jpeg"
+  },
+  {
+      "name": "",
+      "description": "Лестницы и поручни",
+      "id": 3,
+      "imageSrc": "/categories/leaders-150x200-1-300x300.jpg"
+  },
+  {
+      "name": "",
+      "description": "Освещение",
+      "id": 4,
+      "imageSrc": "/categories/light-300x300.jpg"
+  },
+  {
+      "name": "",
+      "description": "Оборудование для подогрева и охлаждения",
+      "id": 5,
+      "imageSrc": "/categories/MF80-400-300x300.jpg"
+  },
+  {
+      "name": "",
+      "description": "Автоматика и электрооборудование",
+      "id": 6,
+      "imageSrc": "/categories/snapedit_1708946365217-300x300.jpeg"
+  },
+  {
+      "name": "",
+      "description": "Аттракционы",
+      "id": 7,
+      "imageSrc": "/categories/snapedit_1708945853695-300x300.jpeg"
+  },
+  {
+      "name": "",
+      "description": "Донные очистители",
+      "id": 8,
+      "imageSrc": "/categories/WY450-300x300.jpg"
+  },
+  {
+      "name": "",
+      "description": "Дозирующее Оборудование",
+      "id": 9,
+      "imageSrc": "/categories/eOneGuard-1_panel-300x300.jpg"
+  },
+  {
+      "name": "",
+      "description": "Оборудование для дезинфекции",
+      "id": 10,
+      "imageSrc": "/categories/odv-1-300x300.jpg"
+  },
+  {
+      "name": "",
+      "description": "Средства для определения параметров воды",
+      "id": 11,
+      "imageSrc": "/categories/pb_55889_0-300x300.jpg"
+  },
+  {
+      "name": "",
+      "description": "Химические реагенты",
+      "id": 12,
+      "imageSrc": "/categories/0402005C_Chemoclor CH-Tabletten 20g_5kg-300x300.jpg"
+  },
+  {
+      "name": "",
+      "description": "Трубы, фитинги, запорная арматура, клей ПВХ",
+      "id": 13,
+      "imageSrc": "/categories/snapedit_1709212595068-300x300.jpeg"
+  },
+  {
+      "name": "",
+      "description": "Отделочные Материалы",
+      "id": 14,
+      "imageSrc": "/categories/granit-2-300x300.jpg"
+  },
+  {
+      "name": "",
+      "description": "Оборудование для соревнований",
+      "id": 15,
+      "imageSrc": "/categories/PK001-300x300.jpg"
+  },
+  {
+      "name": "",
+      "description": "Защитные покрытия и сматывающие устройства",
+      "id": 16,
+      "imageSrc": "/categories/74361-300x300.jpg"
+  },
+  {
+      "name": "",
+      "description": "Осушители",
+      "id": 17,
+      "imageSrc": "/categories/DEH-2500wp-300x300.jpg"
+  },
+  {
+      "name": "",
+      "description": "Сборно-разборные бассейны",
+      "id": 18,
+      "imageSrc": "/categories/oval_pools-300x300.jpg"
+  },
+  {
+      "name": "",
+      "description": "Оборудование для Саун и СПА",
+      "id": 19,
+      "imageSrc": "/categories/hamam-rot-300x300.jpg"
   }
 ]
