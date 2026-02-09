@@ -3,140 +3,140 @@
     "name": "",
     "description": "Фильтры для бассейнов",
     "id": 0,
-    "imageSrc": "/categories/LFS-1-300x300.png",
+    "imageSrc": "/categories/01_filtri-100x100.webp",
     "link": "/filtrovalnoe-oborudovanie/"
   },
   {
     "name": "",
     "description": "Аттракционы",
     "id": 1,
-    "imageSrc": "/categories/snapedit_1708945853695-300x300.jpeg",
+    "imageSrc": "/categories/attrakcioni-100x100.webp",
     "link": "/Attraktsiony/"
   },
   {
     "name": "",
     "description": "Донные очистители",
     "id": 2,
-    "imageSrc": "/categories/WY450-300x300.jpg",
+    "imageSrc": "/categories/09_donnie-100x100.webp",
     "link": "/Donnye-ochistiteli/"
   },
   {
     "name": "",
     "description": "Автоматика и электрооборудование",
     "id": 3,
-    "imageSrc": "/categories/snapedit_1708946365217-300x300.jpeg",
+    "imageSrc": "/categories/08_avtomatika-100x100.webp",
     "link": "/avtomatika/"
   },
   {
     "name": "",
     "description": "Насосы для бассейнов",
     "id": 4,
-    "imageSrc": "/categories/snapedit_1708945957118-300x300.jpeg",
+    "imageSrc": "/categories/nasosi~-100x100.webp",
     "link": "/Nasosy-dlya-bassejnov/"
   },
   {
     "name": "",
     "description": "Отделочные Материалы",
     "id": 5,
-    "imageSrc": "/categories/granit-2-300x300.jpg",
+    "imageSrc": "/categories/otdelka-100x100.webp",
     "link": "/otdelochnie-materiali/"
   },
   {
     "name": "",
     "description": "Освещение",
     "id": 6,
-    "imageSrc": "/categories/light-300x300.jpg",
+    "imageSrc": "/categories/05_svet-100x100.webp",
     "link": "/Osveschenie/"
   },
   {
     "name": "",
     "description": "Закладные в чашу бассейна",
     "id": 7,
-    "imageSrc": "/categories/snapedit_1708946506057-300x300.jpeg",
+    "imageSrc": "/categories/03_zakladnie-100x100.webp",
     "link": "/Zakladnye-v-chashu-bassejna/"
   },
   {
     "name": "",
     "description": "Дозирующее Оборудование",
     "id": 8,
-    "imageSrc": "/categories/eOneGuard-1_panel-300x300.jpg",
+    "imageSrc": "/categories/10_dosing-100x100.webp",
     "link": "/dozirujushhee-oborudovanie-etatron-d-s/"
   },
   {
     "name": "",
     "description": "Оборудование для подогрева и охлаждения",
     "id": 9,
-    "imageSrc": "/categories/MF80-400-300x300.jpg",
+    "imageSrc": "/categories/heating-100x100.webp",
     "link": "/Podogrev-vody/"
   },
   {
     "name": "",
     "description": "Оборудование для дезинфекции",
     "id": 10,
-    "imageSrc": "/categories/odv-1-300x300.jpg",
+    "imageSrc": "/categories/desinf-100x100.webp",
     "link": "/oborudovanie-dlja-dezinfekcii/"
   },
   {
     "name": "",
     "description": "Химические реагенты",
     "id": 11,
-    "imageSrc": "/categories/0402005C_Chemoclor CH-Tabletten 20g_5kg-300x300.jpg",
+    "imageSrc": "/categories/13_chemistry-100x100.webp",
     "link": "/uhod-za-vodoj-bassejna/"
   },
   {
     "name": "",
     "description": "Средства для определения параметров воды",
     "id": 12,
-    "imageSrc": "/categories/pb_55889_0-300x300.jpg",
+    "imageSrc": "/categories/12_param-100x100.webp",
     "link": "/sredstva-dlja-opredelenija-parametrov-vodi/"
   },
   {
     "name": "",
     "description": "Трубы, фитинги, запорная арматура, клей ПВХ",
     "id": 13,
-    "imageSrc": "/categories/snapedit_1709212595068-300x300.jpeg",
+    "imageSrc": "/categories/17_fiting-100x100.webp",
     "link": "/Truby-Fitingi-PVKH-Klej-PVKH/"
   },
   {
     "name": "",
     "description": "Защитные покрытия и сматывающие устройства",
     "id": 14,
-    "imageSrc": "/categories/74361-300x300.jpg",
+    "imageSrc": "/categories/smotka-150x150.webp",
     "link": "/zashita-i-smotka/"
   },
   {
     "name": "",
     "description": "Лестницы и поручни",
     "id": 15,
-    "imageSrc": "/categories/leaders-150x200-1-300x300.jpg",
+    "imageSrc": "/categories/ladders-100x100.webp",
     "link": "/Lestnitsy-i-poruchni/"
   },
   {
     "name": "",
     "description": "Осушители",
     "id": 16,
-    "imageSrc": "/categories/DEH-2500wp-300x300.jpg",
+    "imageSrc": "/categories/16_osushiteli-100x100.webp",
     "link": "/osushiteli/"
   },
   {
     "name": "",
     "description": "Сборно-разборные бассейны",
     "id": 17,
-    "imageSrc": "/categories/oval_pools-300x300.jpg",
+    "imageSrc": "/categories/basseini-100x100.webp",
     "link": "/sborno-razbornie-bassejni/"
   },
   {
     "name": "",
     "description": "Оборудование для Саун и СПА",
     "id": 18,
-    "imageSrc": "/categories/hamam-rot-300x300.jpg",
+    "imageSrc": "/categories/spa-100x100.webp",
     "link": "/oborudovanie-dlja-saun-i-spa/"
   },
   {
     "name": "",
     "description": "Оборудование для соревнований",
     "id": 19,
-    "imageSrc": "/categories/PK001-300x300.jpg",
+    "imageSrc": "/categories/sorevn-100x100.webp",
     "link": "/oborudovanie_dlya_sorevnovanij/"
   }
 ]
